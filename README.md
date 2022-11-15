@@ -1,1 +1,1 @@
-"# betaflight_configs" 
+Betaflight default configs
